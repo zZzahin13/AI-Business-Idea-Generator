@@ -1,13 +1,3 @@
----
-title: Ai Business Idea Generator
-emoji: 🚀
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.23.3
-app_file: app.py
-pinned: false
----
 
 # AI-Powered Business Idea Generator with Interactive Chatbot
 
