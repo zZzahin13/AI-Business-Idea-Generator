@@ -5,6 +5,8 @@ Unlock innovative business opportunities tailored to your skills, interests, and
 Powered by Google's Gemini AI, this tool is designed for entrepreneurs and aspiring business owners seeking fresh, personalized concepts.
 Seamlessly refine your ideas through insightful discussions with an AI assistant.
 
+Check it out at : https://huggingface.co/spaces/zZzahin/ai-business-idea-generator
+
 ## Key Features
 
 Personalized Business Concepts: Receive unique business ideas based on your:
